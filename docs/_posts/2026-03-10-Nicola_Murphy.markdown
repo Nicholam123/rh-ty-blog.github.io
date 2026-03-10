@@ -1,6 +1,8 @@
-# Monday:
+Monday:
 On monday, i arrived to the office at 9:20 and made an account with RedHat. Once I entered the room, we started off by introducing eachother followed by a breif office tour. We then moved on to the break room and began playing Mario Cart along with various other Nintendo games. I thoroughly enjoyed this acticity as it was fun to compete with the other TYs. After gaming it was time for lunch. RedHat offered a selection of snacks and drinks that we were all welcome to take. I helped myself to a delicious hot chocolate before going for a stroll around the office. 
 Our final task of the day was the agile workshop. During this workshop we were split into teams and each team had to build a Mr Potato Head and design it to our liking. As i was the product owner, my job was to choose our designs. The first prompt my team were given was 'Superhero". We decided to do Spiderman. Our second prompt was to make Spiderman evil and finally our 3rd and final prompt was to make the opposite of what we had. Overall, i really enjoyed my day and learend many things eg, the principles of agile. I am looking forward to the rest of the week.
 <img width="960" height="550" alt="image" src="https://github.com/user-attachments/assets/f6e39471-2aae-495a-ac7d-b8ba12ccb1bc" />
+Tuesday
+On Tuesday,we started off the day by doing stand up with Nigel. This activity involves standing up and talking about your previous day. The first workshop was GitHub. We learned how to correctly use it and write blogs.The second workshop i took part in was Python. This was a coding activity specifically msde for beginners.
 
 
